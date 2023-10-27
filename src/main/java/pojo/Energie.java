@@ -4,7 +4,7 @@ public enum Energie {
 	HYDROGENE,
 	ESSENCE,
 	ELECTRIQUE,
-	DIEZEL,
+	DIESEL,
 	GAZ,
 	MECANIQUE
 }
